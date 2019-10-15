@@ -1,3 +1,4 @@
+@reg
 @maintest
 Feature: Demo automation login
 
